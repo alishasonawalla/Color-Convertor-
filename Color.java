@@ -1,4 +1,3 @@
-package project1;
 
 /**
  * This class stores information about color.
