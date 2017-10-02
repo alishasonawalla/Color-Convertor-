@@ -22,5 +22,5 @@ ColorList.java file implements methods to access the color objects in the array 
 Files
 -------
 Color.java
-ColorConvertor,java
+ColorConvertor.java
 ColorList.java
